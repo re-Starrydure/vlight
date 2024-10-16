@@ -42,7 +42,7 @@
 graph TD
 A[new一个新Bankaccount对象,并赋予其balance变量0-200的随机浮点数] --> B[打印当前余额,调用withdraw方法]
     B --> C{看余额是否大于150}
-    C --> | > 150| D[输出取款成功]
+    C --> |/> 150| D[输出取款成功]
     C --> |<= 150| E[catch异常,由写好的异常类处理,输出错误和余额]
  	D --> F(程序结束)
  	E --> F(程序结束)
@@ -69,3 +69,5 @@ A[new一个新Bankaccount对象,并赋予其balance变量0-200的随机浮点数
 [详解Java中的checked异常和unchecked异常-腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1752363)
 
 [Markdown 进阶技能：用代码画流程图（编程零基础也适用） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/69495726)
+
+BV1gb42177hm
