@@ -64,7 +64,7 @@ A[new一个新Bankaccount对象,并赋予其balance变量0-200的随机浮点数
 
 [高效问答 | 让知识无界,智能触手可及 (zaiwen.top)](https://www.zaiwen.top/chat/working-edition)
 
-[java新世界！秒杀一到七题，内含出题内部资料，速来！]（https://www.anime-planet.com/anime/tags/isekai）
+[java新世界！秒杀一到七题，内含出题内部资料，速来！(anime-planet.com)](https://www.anime-planet.com/anime/tags/isekai)
 
 [Java中的异常（checked异常和unchecked异常）_java asserts.check 与sql报错 怎么区分-CSDN博客](https://blog.csdn.net/qq_34039868/article/details/107145009)
 
