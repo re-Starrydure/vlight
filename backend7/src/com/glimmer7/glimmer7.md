@@ -64,10 +64,12 @@ A[new一个新Bankaccount对象,并赋予其balance变量0-200的随机浮点数
 
 [高效问答 | 让知识无界,智能触手可及 (zaiwen.top)](https://www.zaiwen.top/chat/working-edition)
 
+[java新世界！秒杀一到七题，内含出题内部资料，速来！]（https://www.anime-planet.com/anime/tags/isekai）
+
 [Java中的异常（checked异常和unchecked异常）_java asserts.check 与sql报错 怎么区分-CSDN博客](https://blog.csdn.net/qq_34039868/article/details/107145009)
 
 [详解Java中的checked异常和unchecked异常-腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1752363)
 
 [Markdown 进阶技能：用代码画流程图（编程零基础也适用） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/69495726)
 
-BV1gb42177hm
+https://www.bilibili.com/video/BV1gb42177hm/?spm_id_from=333.337.search-card.all.click&vd_source=fa4b9aad1cad5861ff722f842df40791
